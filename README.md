@@ -84,7 +84,7 @@ We are dedicated to developing excellent free software tools. Focusing on the fi
 - 可通过微软商店一键安装，自动更新，安全无捆绑
   One-click installation via Microsoft Store, automatic updates, safe and no bundles
 - 下载链接：https://apps.microsoft.com/store/detail/XPFNZ3NB114VB1
-  Download link: https://apps.microsoft.com/store/detail/XPFNZ3NB114VB1
+- Download link: https://apps.microsoft.com/store/detail/XPFNZ3NB114VB1
 ---
 
 ## 📜 License / 授权协议
