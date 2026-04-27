@@ -5,10 +5,17 @@ Free, powerful, and easy-to-use network checker for everyone.
 ***
 
 ## 📖 About Us / 关于我们
+<<<<<<< HEAD
 
 致力于开发优秀的免费软件工具，深耕实用型工具领域，秉持开源、高效、便捷的理念，为全球用户提供简洁易用、功能靠谱的使用体验，助力用户提升效率、简化操作。
 
 We are dedicated to developing excellent free software tools. Focusing on the field of practical utilities, we adhere to the concepts of open source, efficiency and convenience, providing users with a user-friendly and reliable experience that helps improve efficiency and simplify operations.
+=======
+致力于开发优秀的免费软件工具，深耕实用型工具领域，秉持高效、便捷的理念，为全球用户提供简洁易用、功能靠谱的使用体验，助力用户提升效率、简化操作。
+We are committed to developing excellent free software tools, focusing on the field of practical utilities. Upholding the principles of efficiency and convenience, we provide users worldwide with a simple, easy-to-use and reliable experience, helping them improve efficiency and simplify operations.
+中文官网：[https://www.majk.cn](https://www.majk.cn)
+English Website：[https://lumtool.com](https://lumtool.com)
+>>>>>>> bb6c66aa26742864e803b73087f22e6c577121a6
 
 ***
 
@@ -95,10 +102,16 @@ We are dedicated to developing excellent free software tools. Focusing on the fi
 
 - 可通过微软商店一键安装，自动更新，安全无捆绑
   One-click installation via Microsoft Store, automatic updates, safe and no bundles
+<<<<<<< HEAD
 - 下载链接：<https://apps.microsoft.com/detail/9MV1QTQ307GB>
 - Download link: <https://apps.microsoft.com/detail/9MV1QTQ307GB>
 
 ***
+=======
+- 下载链接：https://apps.microsoft.com/store/detail/XPFNZ3NB114VB1
+- Download link: https://apps.microsoft.com/store/detail/XPFNZ3NB114VB1
+---
+>>>>>>> bb6c66aa26742864e803b73087f22e6c577121a6
 
 ## 📜 License / 授权协议
 
