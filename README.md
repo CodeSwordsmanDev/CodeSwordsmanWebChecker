@@ -23,20 +23,28 @@ English Website：<https://lumtool.com>
 
 ## ✨ Features / 功能特性
 
-- **快速检测**：单IP检测，支持网络状态、端口状态、网址状态检查
-  Quick check: Single IP detection, supporting network status, port status, and URL status checking
-- **批量检测**：多IP批量检测，支持导入IP列表文件
-  Batch check: Multi-IP batch detection, supporting importing IP list files
-- **SSH重启**：当设备不通时，可通过SSH远程重启设备
-  SSH reboot: When devices are unreachable, remotely reboot them via SSH
-- **多语言支持**：内置中文和英文界面
-  Multi-language support: Built-in Chinese and English interfaces
-- **结果导出**：支持导出检测结果为文本文件
-  Result export: Support exporting detection results as text files
-- **用户友好**：直观的界面设计，操作简单
-  User-friendly: Intuitive interface design with simple operation
-- **100%免费**：无广告、无捆绑、无隐藏收费
-  100% Free: No ads, no bundles, no hidden fees
+## 产品功能 / Features
+
+- **快速检测 / Quick Check**：单 IP 检测，支持网络状态、端口状态、网址状态检查。  
+  Single IP detection, supporting checks for network status, port status, and website status.
+
+- **批量检测 / Batch Detection**：多 IP、多网址批量检测，支持导入 IP 列表文件。  
+  Bulk checks for multiple IPs and URLs, with support for importing IP list files.
+
+- **SSH 重启 / SSH Reboot**：设备不通时可通过 SSH 远程重启设备。  
+  Remotely restart devices via SSH when they are unresponsive.
+
+- **多语言支持 / Multi-language Support**：内置中文与英文界面。  
+  Built-in Chinese and English interface options.
+
+- **结果导出 / Result Export**：支持将检测结果导出为文本文件。  
+  Export detection results as text files.
+
+- **用户友好 / User-Friendly Design**：界面直观简洁，操作简单便捷。  
+  Intuitive, clean interface with simple and easy operations.
+
+- **SSL 证书检测 / SSL Certificate Check**：支持快速 SSL 证书有效期检测。  
+  Quickly verify SSL certificate validity and expiration dates.
 
 ### 🖼️ Software Interface / 软件界面
 
@@ -44,21 +52,21 @@ English Website：<https://lumtool.com>
 
 |           Main Interface           |           Quick Check           |
 | :--------------------------------: | :-----------------------------: |
-| ![Main Interface](assets/en/1.png) | ![Quick Check](assets/en/2.png) |
+| ![Main Interface](assets/en/1.png) | ![Quick Check](assets/en/2-1.png) |
 
 |           Batch Check           |           Result Export           |
 | :-----------------------------: | :-------------------------------: |
-| ![Batch Check](assets/en/3.png) | ![Result Export](assets/en/4.png) |
+| ![Batch Check](assets/en/3-1.png) | ![Result Export](assets/en/4.png) |
 
 #### 中文界面
 
 |           主界面           |           快速检测           |
 | :---------------------: | :----------------------: |
-| ![主界面](assets/zh/1.png) | ![快速检测](assets/zh/2.png) |
+| ![主界面](assets/zh/1-2.png) | ![快速检测](assets/zh/2-1.png) |
 
 |           批量检测           |           结果导出           |
 | :----------------------: | :----------------------: |
-| ![批量检测](assets/zh/3.png) | ![结果导出](assets/zh/4.png) |
+| ![批量检测](assets/zh/3-1.png) | ![结果导出](assets/zh/4.png) |
 
 ***
 
@@ -69,20 +77,22 @@ English Website：<https://lumtool.com>
 1. Download and open the software
 2. For quick check: Enter IP address, select port, and enter URL (optional)
 3. For batch check: Enter IP addresses (one per line) or import from file
-4. Click "Check" to start detection
-5. View results in real-time
-6. Export results if needed
-7. Use SSH reboot function for unreachable devices
+4. For SSL certificate check: Enter domain name to verify certificate validity
+5. Click "Check" to start detection
+6. View results in real-time (network status, port status, website status)
+7. Export results to text file if needed
+8. Use SSH reboot function for unreachable devices
 
 ### 中文版
 
 1. 下载并打开软件
 2. 快速检测：输入IP地址，选择端口，输入网址（可选）
 3. 批量检测：输入IP地址（每行一个）或从文件导入
-4. 点击"检测"开始检测
-5. 实时查看结果
-6. 如需导出结果
-7. 对不通的设备使用SSH重启功能
+4. SSL证书检测：输入域名验证证书有效期
+5. 点击"检测"开始检测
+6. 实时查看结果（网络状态、端口状态、网址状态）
+7. 如需导出结果为文本文件
+8. 对不通的设备使用SSH重启功能
 
 ### 📺 Demo Video / 演示视频
 
@@ -97,14 +107,13 @@ English Website：<https://lumtool.com>
 
 - 本版本仅支持 Windows x64 系统
   This version only supports Windows x64 system
-- 下载后直接双击 `majk-web-check-v1.0.4-win64-Setup.exe` 运行安装，无需额外配置
-  Download and double-click `majk-web-check-v1.0.4-win64-Setup.exe` to install, no additional configuration required
+- 下载后直接双击 `majk-web-check-v1.0.5-win64-Setup.exe` 运行安装，无需额外配置
+  Download and double-click `majk-web-check-v1.0.5-win64-Setup.exe` to install, no additional configuration required
 
 ### 方式二：微软商店下载 / Method 2: Microsoft Store Download
 
 - 可通过微软商店一键安装，自动更新，安全无捆绑
   One-click installation via Microsoft Store, automatic updates, safe and no bundles
-  <<<<<<< HEAD
 - 下载链接：<https://apps.microsoft.com/detail/9MV1QTQ307GB>
 - Download link: <https://apps.microsoft.com/detail/9MV1QTQ307GB>
 
